@@ -2,9 +2,6 @@
 
 This is a **basic calculator** built using **HTML**, **CSS**, and **JavaScript**. It supports fundamental arithmetic operations and has a clean, responsive user interface.
 
-![Calculator Screenshot](screenshot.png) <!-- Replace with actual image path if available -->
-<img width="578" height="869" alt="image" src="https://github.com/user-attachments/assets/2a33dd8a-5572-4564-a94d-7a4a1c77ba61" />
-
 ---
 
 ## ✨ Features
