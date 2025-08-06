@@ -22,6 +22,13 @@ This is a **basic calculator** built using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
+## 🧠 Learnings
+This project is a great way to understand:
+- DOM manipulation using JavaScript
+- Responsive UI design using Flexbox
+- Event handling in JavaScript
+- Building mini web applications with no external libraries
+
 ## 🙌 Acknowledgments
 
 Inspired by basic calculator designs often used in beginner-friendly web development tutorials.
